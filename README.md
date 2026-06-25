@@ -1,7 +1,6 @@
 # Academy - VulnHub Walkthrough
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-VulnHub-red">
   <img src="https://img.shields.io/badge/Difficulty-Easy-green">
   <img src="https://img.shields.io/badge/OS-Linux-blue">
   <img src="https://img.shields.io/badge/Status-Rooted-success">
