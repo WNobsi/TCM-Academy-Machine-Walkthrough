@@ -1,4 +1,4 @@
-# Academy - VulnHub Walkthrough
+# Academy - TCM Machine Walkthrough
 
 <p align="center">
   <img src="https://img.shields.io/badge/Difficulty-Easy-green">
