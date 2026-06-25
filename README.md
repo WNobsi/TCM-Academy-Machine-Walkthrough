@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Status-Rooted-success">
 </p>
 
-> **Platform:** VulnHub  
+> **Platform:** TCM  
 > **Machine:** Academy  
 > **Difficulty:** Easy  
 > **Objective:** Gain root access and capture the flag.
